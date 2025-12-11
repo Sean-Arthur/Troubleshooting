@@ -17,8 +17,7 @@ This repository demonstrates troubleshooting skills. It includes:
 
 ## How to Use
 
-1. Navigate to `tools` folder.
-2. Run scripts:
+Run the scripts directly from the repository root:
 
 ```bash
 python3 api_tester.py
